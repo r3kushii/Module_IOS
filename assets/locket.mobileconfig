@@ -48,7 +48,9 @@
             <key>PayloadDescription</key>
             <string>Configures device to use Locket VIP Free DNS</string>
             <key>PayloadDisplayName</key>
-            <string>Locket VIP Server</string>
+            <string>Locket Gold DNS</string>
+            <key>PayloadOrganization</key>
+            <string>Đinh Duy Vinh</string>
             <key>PayloadIdentifier</key>
             <string>com.apple.dnsSettings.managed.locketvip</string>
             <key>PayloadType</key>
