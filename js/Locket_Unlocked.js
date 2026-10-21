@@ -57,7 +57,7 @@ if (ua.includes("Locket")) {
                 {
                     title: "Nhớ follow kênh tiktok @duyvinh.09 ✨",
                     body: "Một follow của bạn, một niềm vui của mình 💛",
-                    imageURL: "https://i.ibb.co/hJ73V6fS/logoduyvinh09.avif"
+                    imageURL: "https://cdn.upanhlaylink.com/i/GSfYXmKd.png"
                 }
             ],
             primary_button_title: "Xong rồi nhé!",
@@ -265,6 +265,7 @@ if (ua.includes("Locket")) {
         widget_sync_token_reload_mode: "clearTokenNever",
         widget_frame_event: JSON.stringify({
             uid: "midautumn_2026",
+            // url: "https://i.ibb.co/vC8b93Ld/ig.png",
             url: "https://i.ibb.co/1Yt1Dzzy/Shin-chan-1.png",
             // url: "https://i.ibb.co/RTm5P1n9/kitty-1.png",
             // url: "https://i.ibb.co/JjLZ3cvD/khung-ins.png",
