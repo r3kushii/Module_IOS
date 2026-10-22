@@ -49,18 +49,18 @@ if (ua.includes("Locket")) {
             profile_banner: true
         }),
         feature_discovery_popup_config: JSON.stringify({
-            tag: "LOCKET GOLD ALL FEATURES",
+            tag: "⪩ ⪨ ꠹",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "Lên Locket Gold rồi đó 😎",
+            title: "Wellcome To Locket Gold! 💛",
             feature_set: [
                 {
-                    title: "Nhớ follow kênh tiktok @duyvinh.09 ✨",
-                    body: "Một follow của bạn, một niềm vui của mình 💛",
-                    imageURL: "https://cdn.upanhlaylink.com/i/GSfYXmKd.png"
+                    title: "Script by dvinh.09 | modified by fz",
+                    body: "uninstall to remove all the changes!",
+                    imageURL: "https://lh3.googleusercontent.com/d/1FBy5UlwqGLd98jpGasv-LoEvos6xJS2b"
                 }
             ],
-            primary_button_title: "Xong rồi nhé!",
+            primary_button_title: "(˵◝ ⩊  ◜˵マ 𖾕𖾝꙼ᩚ𛲕𖾟",
             campaign: "locket_gold_welcome_v3",
             start_at: "2020-01-01T00:00:00",
             end_at: "2099-12-31T23:59:59",
