@@ -179,12 +179,12 @@ if (ua.includes("Locket")) {
     // 4. BẠN BÈ, GIỚI HẠN & ĐỀ XUẤT KẾT BẠN
     // ============================================================
     Object.assign(obj.entries, {
-        max_friends_count: "999999999",
+        max_friends_count: "1000",
         friend_limit_mode: "0",
-        soft_friend_limit_threshold_count: "999999999",
+        soft_friend_limit_threshold_count: "1000",
         show_friend_limit_on_cam: "false",
-        signup_max_friends_count: "999999999",
-        celebrity_inbox_limit: "999999999",
+        signup_max_friends_count: "1000",
+        celebrity_inbox_limit: "1000",
         celebrity_inbox_enabled: "true",
         celebrity_vip_qr_redemption_enabled: "true",
         friend_limit_geo_override: JSON.stringify({ experiments: {}, area_code_overrides: {} }),
